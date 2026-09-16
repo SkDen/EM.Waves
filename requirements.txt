@@ -1,0 +1,6 @@
+numpy>=2.0.2
+pyopencl>=2024.2.7
+matplotlib>=3.9.2
+Pillow>=10.4.0
+opencv-python>=4.10.0.84
+tqdm>=4.66.5
